@@ -3,9 +3,10 @@ Wayne State University
 Spring/Summer 2020
 Software Testing - SS20
 
-Choose a free online to do list application. 
+Test Case Specification
 
-Microsoft To Do, Todoist, ToodleDO, Tick Tack, Google Keep are examples of such web applications.
+Application: ToodleDO
+
 
  Write detailed test cases for the following use cases:
 
