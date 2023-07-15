@@ -1,8 +1,8 @@
-<p>
+
 Wayne State University
 Spring/Summer 2020
 Software Testing - SS20
-</p>
+==========================
 
 #Test Case Specification with Selenium
 
