@@ -9,8 +9,8 @@
 ##### Test Case Specification with Selenium  
 =======================================================================
 
-** Application: ToodleDO **
-=======================================================================
+# Application: ToodleDO 
+
 
 
  Write detailed test cases for the following use cases:
