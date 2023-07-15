@@ -1,10 +1,12 @@
-**Wayne State University
+<p>
+Wayne State University
 Spring/Summer 2020
-Software Testing - SS20**
+Software Testing - SS20
+</p>
 
 #Test Case Specification with Selenium
 
-Application: ToodleDO
+**Application: ToodleDO**
 
 
  Write detailed test cases for the following use cases:
