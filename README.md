@@ -6,7 +6,7 @@
 ##### Software Testing - SS20  
 ------------------------------
 
-##### Test Case Specification with Selenium  
+##### Test Case Specification with ## Selenium  
 ------------------------------
 
 # Application: ToodleDO 
