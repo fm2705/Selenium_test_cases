@@ -1,7 +1,6 @@
-
-####Wayne State University
-####Spring/Summer 2020
-####Software Testing - SS20
+**Wayne State University
+Spring/Summer 2020
+Software Testing - SS20**
 
 #Test Case Specification with Selenium
 
