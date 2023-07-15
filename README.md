@@ -1,15 +1,15 @@
 
-Wayne State University
+##### Wayne State University
 ------------------------------
-Spring/Summer 2020
+##### Spring/Summer 2020
 ------------------------------
-Software Testing - SS20
+##### Software Testing - SS20
 ------------------------------
 
-#Test Case Specification with Selenium
+##### Test Case Specification with Selenium
 =========================================
 
-**Application: ToodleDO**
+** Application: ToodleDO
 =====================================================
 
 
