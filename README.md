@@ -1,9 +1,9 @@
-# Selenium_test_cases
-Wayne State University
-Spring/Summer 2020
-Software Testing - SS20
 
-Test Case Specification
+####Wayne State University
+####Spring/Summer 2020
+####Software Testing - SS20
+
+#Test Case Specification with Selenium
 
 Application: ToodleDO
 
